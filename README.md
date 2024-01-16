@@ -1,38 +1,38 @@
 # Test Shuffle App
 
-Test Shuffle App is a simple tkinter-based application that allows users to shuffle options in a text file containing test questions. The application provides an easy way to randomize answer choices for each question.
+Test Shuffle App - bu oson tkinter asoslangan ilova, foydalanuvchilarga test savollari bo'yicha variantlarni qarıştirish imkoniyatini beradi. Ilova, har bir savol uchun javob variantlarini tasodifiy tartibda joylash uchun oson yo'lni taqdim etadi.
 
-## Features
+## Xususiyatlar
 
-- **File Selection:** Choose a text file containing test questions and answer choices.
-- **Content Editing:** View and edit the content of the selected file.
-- **Option Shuffling:** Shuffle answer choices for each question to create variations.
-- **Save Modified Content:** Save the edited content to a new text file.
-- **Help and Tutorial:** Access a tutorial to guide you through the application.
+- **Fayl tanlash:** Test savollari va javob variantlarini o'z ichiga olgan matnni o'zgartirish uchun matn faylini tanlang.
+- **Mundarija tahriri:** Tanlangan faylning tarkibi ko'rsatiladi va tahrirlashga imkon beradi.
+- **Variantlarni aralashtirish:** Har bir savol uchun javob variantlarini aralashtirib, turli variantlarni yaratish imkoniyatini beradi.
+- **O'zgartirilgan tarkibni saqlash:** O'zgartirilgan tarkibni yangi matn fayliga saqlash imkoniyatini beradi.
+- **Yordam va Qo'llanma:** Ilova yordam qiluvchi qo'llanma bilan tanishing.
 
-## How to Use
+## Qanday ishlatish
 
-1. Click the "Fayl tanlash" button to select a text file with the test questions.
-2. Edit the content in the text editor as needed.
-3. Click the "Variantlarni aralashtirish" button to shuffle answer choices.
-4. Click the "Saqlash" button to save the modified content to a new file.
-5. For additional help, click the "Yordam" button to access the tutorial.
+1. "Fayl tanlash" tugmasini bosing va test savollari bo'yicha matn faylini tanlang.
+2. Matn tahrirchisida zarur o'zgartirishlarni kiritish uchun tahrirlashni boshlang.
+3. "Variantlarni aralashtirish" tugmasini bosing va har bir savol uchun javob variantlarini aralashtiring.
+4. "Saqlash" tugmasini bosing va o'zgartirilgan tarkibni yangi faylga saqlang.
+5. Qo'shimcha yordam uchun, "Yordam" tugmasini bosing va qo'llanmani olish uchun qo'llanmaqa o'ting.
 
-## Tutorial
+## Qo'llanma
 
-A tutorial is available within the application to provide step-by-step guidance on using Test Shuffle. You can access the tutorial by clicking the "Yordam" button.
+Ilovada, Test Shuffle ni qanday ishlatish haqida qadam-ma-qadam yo'riqnoma mavjud. Qo'llanmaga "Yordam" tugmasini bosib olishingiz mumkin.
 
-## Contact
+## Aloqa
 
-For additional assistance or inquiries, feel free to reach out:
+Qo'shimcha yordam yoki so'rovlar uchun quyidagi manzillar orqali biz bilan bog'lanishingiz mumkin:
 
 - Telegram: [t.me/anodra_uz](https://t.me/anodra_uz)
 - Github: [www.github.com/yagafarov](https://www.github.com/yagafarov)
 - Instagram: [www.instagram.com/yagafarov_d_](https://www.instagram.com/yagafarov_d_)
 
-## Sample Test Format
+## Namuna Test Format
 
-Test questions should follow the specified format:
+Test savollari quyidagi shaklda bo'lishi kerak:
 
 ```plaintext
 # savol 1
