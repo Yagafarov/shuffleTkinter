@@ -26,9 +26,9 @@ Ilovada, Test Shuffle ni qanday ishlatish haqida qadam-ma-qadam yo'riqnoma mavju
 
 Qo'shimcha yordam yoki so'rovlar uchun quyidagi manzillar orqali biz bilan bog'lanishingiz mumkin:
 
-- Telegram: [t.me/anodra_uz](https://t.me/anodra_uz)
+- Telegram: [t.me/codewithdin](https://t.me/codewithdin)
 - Github: [www.github.com/yagafarov](https://www.github.com/yagafarov)
-- Instagram: [www.instagram.com/yagafarov_d_](https://www.instagram.com/yagafarov_d_)
+- Instagram: [www.instagram.com/yagafarov_](https://www.instagram.com/yagafarov)
 
 ## Namuna Test Format
 
