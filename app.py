@@ -72,9 +72,9 @@ def show_tutorial():
     Qo'shimcha yordam olish uchun www.anodra.uz saytiga tashrif buyuring.
 
     Biz bilan bog'laning:
-    - Telegram: t.me/anodra_uz
+    - Telegram: t.me/codewithdin
     - Github: www.github.com/yagafarov
-    - Instagram: www.instagram.com/yagafarov_d_
+    - Instagram: www.instagram.com/yagafarov
 
     
      Testlar quyidagi shablon asodida bo'lishi kerak:
