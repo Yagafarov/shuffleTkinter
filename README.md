@@ -1,7 +1,7 @@
 # Test Shuffle App
 
 Test Shuffle App - bu oson tkinter asoslangan ilova, foydalanuvchilarga test savollari bo'yicha variantlarni qarıştirish imkoniyatini beradi. Ilova, har bir savol uchun javob variantlarini tasodifiy tartibda joylash uchun oson yo'lni taqdim etadi.
-
+![screenshot](./shuffle.jpg)
 ## Xususiyatlar
 
 - **Fayl tanlash:** Test savollari va javob variantlarini o'z ichiga olgan matnni o'zgartirish uchun matn faylini tanlang.
